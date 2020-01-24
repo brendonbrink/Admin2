@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WB_ADMIN2/static/css/main.d1b05096.chunk.css",
+    "main.js": "/WB_ADMIN2/static/js/main.d608ff10.chunk.js",
+    "main.js.map": "/WB_ADMIN2/static/js/main.d608ff10.chunk.js.map",
+    "runtime-main.js": "/WB_ADMIN2/static/js/runtime-main.29f81f70.js",
+    "runtime-main.js.map": "/WB_ADMIN2/static/js/runtime-main.29f81f70.js.map",
+    "static/css/2.88a9e19c.chunk.css": "/WB_ADMIN2/static/css/2.88a9e19c.chunk.css",
+    "static/js/2.91c42fac.chunk.js": "/WB_ADMIN2/static/js/2.91c42fac.chunk.js",
+    "static/js/2.91c42fac.chunk.js.map": "/WB_ADMIN2/static/js/2.91c42fac.chunk.js.map",
+    "index.html": "/WB_ADMIN2/index.html",
+    "precache-manifest.3d865ccb4ba2aa631be40e77561fb04f.js": "/WB_ADMIN2/precache-manifest.3d865ccb4ba2aa631be40e77561fb04f.js",
+    "service-worker.js": "/WB_ADMIN2/service-worker.js",
+    "static/css/2.88a9e19c.chunk.css.map": "/WB_ADMIN2/static/css/2.88a9e19c.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/WB_ADMIN2/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.91c42fac.chunk.js.LICENSE": "/WB_ADMIN2/static/js/2.91c42fac.chunk.js.LICENSE",
+    "static/media/logo.svg": "/WB_ADMIN2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f81f70.js",
+    "static/css/2.88a9e19c.chunk.css",
+    "static/js/2.91c42fac.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d608ff10.chunk.js"
+  ]
+}
